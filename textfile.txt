@@ -1,3 +1,6 @@
 
 This is my new text file
 This has 2 lines
+New line added to the text file
+this has 4 lines
+
