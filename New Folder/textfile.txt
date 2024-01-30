@@ -3,4 +3,7 @@ This is my new text file
 This has 2 lines
 New line added to the text file
 this has 4 lines
+this file in the new dir
+this has 6 linew
+
 
